@@ -1,2 +1,7 @@
-# store-sales-analysis
-This project is demonstrate SQL skills and techniques.
+# Store Sales Analysis
+
+Project Overview
+hr
+Project Title: Retail Sales Analysis
+Level: Beginner
+Database: p1_retail_db
