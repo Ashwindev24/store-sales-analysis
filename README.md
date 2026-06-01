@@ -210,3 +210,19 @@ COUNT(*) as total_order
 FROM hourly_sale
 GROUP BY shift
 ```
+
+## Findings
+- Analyzed customer demographics and purchasing behavior across multiple product categories.
+- Identified high-value transactions, highlighting premium purchasing patterns.
+- Discovered monthly sales trends and seasonal performance variations.
+- Determined top-spending customers and best-performing product categories.
+
+## Reports
+- **Sales Performance Report**: Overview of sales, customer segments, and category performance.
+- **Trend Analysis Report**: Monthly sales patterns and peak business periods.
+- **Customer Insights Report**: Top customers and category-wise customer distribution.
+
+## Conclusion
+This project demonstrates the practical application of SQL for data cleaning, exploratory analysis, and business reporting. The insights generated help understand customer behavior, sales performance, and product trends, enabling more informed business decisions.
+
+Thank you for your support. I look forward to connecting with you.
