@@ -1,12 +1,13 @@
 # Store Sales Analysis
 
 ## Project Overview
-**Project Title**: Retail Sales Analysis
-**Level**: Beginner
-**Database**: p1_retail_db
+
+**Project Title**: Store Sales Analysis  
+**Level**: Beginner  
+**Database**: `st_project_tb`
 
 ## Objectives
-1. Built and Managed Retail Sales Database
+1. Built and Managed Store Sales Database
 2. Cleaned and Transformed Raw Data
 3. Conducted Exploratory Data Analysis
 4. Generated Business Insights and Recommendations
